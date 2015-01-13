@@ -32,7 +32,7 @@
 % Centro de Tecnologia - CTEC
 % Programa de Pós-Graduação em Engenharia Civil - PPGEC
 % -------------------------------------------------------------------------
-% ALUNO: Roésio Oliveira Santos.
+% ALUNO: Roésio Oliveira Santos e Paulo de Tarso Costa de Almeida.
 % Disciplina: Mecânica Computacional de Estruturas
 % Professor: João Carlos Cordeiro Barbirato(jccb@lccv.ufal.br)
 
