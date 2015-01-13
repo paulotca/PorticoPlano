@@ -13,7 +13,7 @@
 % Quantidades de nós e elementos:
 % Nnos=input('Número de nós: ');
 % Nelem=input('Número de elementos: ');
-% 
+% bla bla balb albalablbal
 % %Coordenadas dos nós
 % for i=1:Nnos
 %     disp('Nó');
